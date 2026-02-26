@@ -246,7 +246,7 @@ export default function CarpoolCalculator() {
           <Card className="shadow-lg border-border w-full">
             <CardHeader className="bg-card">
               <CardTitle className="text-card-foreground">📋 Daily Participation</CardTitle>
-              <CardDescription>Set each passenger's participation for every day</CardDescription>
+              <CardDescription>Set each passenger&apos;s participation for every day</CardDescription>
             </CardHeader>
             <CardContent className="pt-6">
               <div className="space-y-6">
